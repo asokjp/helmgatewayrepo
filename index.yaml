@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  gateway:
+  - appVersion: v1
+    created: 2017-09-19T05:22:55.486493611Z
+    description: gateway
+    digest: 15f7e2ec0702fdb66209cb0e90439d573e9fe48c3e5b65752d72299f52acf193
+    keywords:
+    - gateway
+    - ingresscontroller
+    - ingress
+    maintainers:
+    - email: test@test.com
+      name: Asok
+    name: gateway
+    urls:
+    - https://asokjp.github.io/helmgatewayrepo/gateway-v1.tgz
+    version: v1
+generated: 2017-09-19T05:22:55.486112862Z
